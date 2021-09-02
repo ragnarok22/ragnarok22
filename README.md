@@ -1,5 +1,6 @@
 <h1 align="center">Hi there! 👋🏻, I'm Reinier Hernández aka @ragnarok22</h1>
 <h3 align="center">I'm a passionate python dev.</h3>
+<p>If the numbers spoke ...</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ragnarok22&count_private=true&show_icons=true" alt="ragnarok22" /></p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ragnarok22&column=3" alt="ragnarok22" /> </p>
 <p align="center">
@@ -7,3 +8,8 @@
   <a href="https://twitter.com/RagnarokReinier"><img src="https://img.shields.io/twitter/follow/RagnarokReinier?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/reinier-ragnarok/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
+
+<h1>Buy me a coffee</h1>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S55RTZV)
+![](https://hit.yhype.me/github/profile?user_id=8838803)
