@@ -11,7 +11,6 @@
 
 <h1>Buy me a coffee</h1>
 
-[![paynest](https://paynest.app/favicon.ico)](https://paynest.app/ragnarokreinier)
+[![PayLink](https://ragnarok22.github.io/paylink/)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S55RTZV)
 ![](https://hit.yhype.me/github/profile?user_id=8838803)
