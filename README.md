@@ -11,6 +11,6 @@
 
 <h1>Buy me a coffee</h1>
 
-[![PayLink](https://ragnarok22.github.io/paylink/)
+[PayLink](https://ragnarok22.github.io/paylink/)
 
 ![](https://hit.yhype.me/github/profile?user_id=8838803)
