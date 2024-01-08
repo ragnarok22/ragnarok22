@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋🏻, I'm Reinier Hernández aka @ragnarok22</h1>
 <h3 align="center">I'm a passionate python dev.</h3>
 <p>If the numbers spoke ...</p>
+<img src="https://user-badge.committers.top/cuba/ragnarok22.svg" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ragnarok22&count_private=true&show_icons=true" alt="ragnarok22" /></p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ragnarok22&column=3" alt="ragnarok22" /> </p>
 <p align="center">
