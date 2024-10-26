@@ -15,3 +15,5 @@
 [PayLink](https://ragnarok22.github.io/paylink/)
 
 ![](https://hit.yhype.me/github/profile?user_id=8838803)
+
+[![An image of @ragnarokreinier's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ragnarokreinier)](https://holopin.io/@ragnarokreinier)
