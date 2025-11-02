@@ -41,7 +41,7 @@ I'm a passionate Python dev who builds tools, breaks things, and lives in the te
 ## 🔗 Projects
 
 - [gsmart](https://github.com/ragnarok22/gsmart) – CLI tool for smarter workflows
-- [suri-rates](https://github.com/ragnarok22/suri-rates) – Open source utility
+- [suri-rates](https://github.com/ragnarok22/suri-rate) – Track USD and EUR to SRD exchange rates from major banks in Suriname
 - [Telegram bot API docker](https://github.com/ragnarok22/telegram-bot-api-docker) - Dockerized Telegram Bot API server
 - [cryptobot](https://github.com/ragnarok22/cryptobot_python) - Non official, but friendly CryptoBot library for the Python language.
 - [whereami.nvim](https://github.com/ragnarok22/whereami.nvim) - A simple plugin for neovim to get the current location
