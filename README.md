@@ -7,14 +7,6 @@ I'm a passionate Python dev who builds tools, breaks things, and lives in the te
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragnarok22&count_private=true&show_icons=true" alt="ragnarok22" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ragnarok22&column=3" alt="Github trophies" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ragnarok22"><img src="https://img.shields.io/github/followers/ragnarok22.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://x.com/ragnarokreinier"><img src="https://img.shields.io/twitter/follow/ragnarokreinier?label=X&style=social" alt="X"></a>
   <a href="https://www.linkedin.com/in/ragnarokreinier/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
